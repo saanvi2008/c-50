@@ -1,0 +1,29 @@
+h1{
+    color: blueviolet;
+}
+/**{
+    border: solid;
+}
+*/
+.header{
+    background-color: darkkhaki;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    font-family: cursive;
+    background-color: navy;
+    color :yellowgreen;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.footer{
+    display: flex;
+    justify-content: end;
+    font-family: cursive;
+    color: maroon;
+}
+.item{
+    text-align: center;
+}
